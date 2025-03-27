@@ -1,3 +1,8 @@
+# This is a Heading h1
+## This is a Heading h2
+###### This is a Heading h6
+
+
 # Department of Statistics & Computer Science  
 ### University of Kelaniya
 ### Academic Year:** 2023/2024  
