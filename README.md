@@ -7,5 +7,10 @@ COSC 31103 / BECS 31233 - Web & Internet Technologies</h3>
 
 [Lab Sheet 01](./Lab%20Sheet%2001%20-%20HTML.pdf)
 <br>
-<img src="./home.png" alt="Home">
 </div>
+
+<br>
+<h2>home.html</h2>
+<img src="./home.png" alt="Home">
+
+
