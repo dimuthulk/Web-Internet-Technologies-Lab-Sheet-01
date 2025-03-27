@@ -9,8 +9,10 @@ COSC 31103 / BECS 31233 - Web & Internet Technologies</h3>
 <br>
 </div>
 
-<br>
 <h2>home.html</h2>
 <img src="./home.png" alt="Home">
+<br>
+<h2>menu.html</h2>
+<img src="./menu.png" alt="menu">
 
 
