@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    justify-items: center;
+}
+
+.div1 h1{
+    text-align: center;
+    margin: 50px 0 10px 0;
+    font-size: 30px;
+    color: #333;
+}
+
+.div2 img{
+    width: 100vw;
+    margin: 10px 0;
+}
+.div2 p{
+    text-align: center;
+    margin: 10px 0;
+    font-size: 20px;
+    color: #000000;
+}
+.div3 h2,p,address{
+    margin: 10px 10px;
+    color: #000000; 
+}
