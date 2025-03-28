@@ -15,16 +15,23 @@ h1{
     margin: 10px 0 0 10px;
     color: #333;
 }
-
+.div1 img {
+    width: 24.5vw;
+    height: 24.5vw;
+    object-fit: cover;
+}
 h2{
     margin: 20px 0 0 10px;
     text-align : center;
     font-style: italic;
 }
-.div1 img{
-    width: 24.5%;
-}
 
+.div1 a,img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 24vw;
+}
 .div2{
 
     display: flex;
